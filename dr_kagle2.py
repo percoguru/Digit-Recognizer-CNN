@@ -12,6 +12,9 @@ Created on Sun Mar 17 12:37:32 2019
 @author: Gaurav Mehra
 """
 
+# CNN to recognize handwritten digits
+# Test set accuarcy: 98.93%
+
 
 import numpy
 import pandas as pd
